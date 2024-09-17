@@ -1,3 +1,15 @@
 body {
-    background-color: rgb(172, 0, 224);
+    background-color: rgb(210, 71, 252);
+}
+p{
+    color: rgb(218, 184, 250);
+}
+
+h1{
+    font-style: italic;
+}
+
+.mor{
+    color: rgb(174, 217, 255);
+    font-size: medium;
 }
