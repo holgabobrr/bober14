@@ -7,10 +7,14 @@ p{
 
 h1{
     font-style: italic;
-    
+    color: blue;
 }
 
 .mor{
     color: rgb(255, 0, 0);
     font-size: medium;
+}
+
+.diva{ 
+    width: 50%;
 }
